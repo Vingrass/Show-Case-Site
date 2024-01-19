@@ -1,0 +1,2 @@
+export const ADD_TO_DONATE = "ADD_TO_DONATE";
+export const REMOVE_FROM_DONATE = "REMOVE_FROM_DONATE";
